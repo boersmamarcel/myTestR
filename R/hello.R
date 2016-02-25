@@ -14,5 +14,5 @@
 #   Test Package:              'Cmd + Shift + T'
 
 hello <- function() {
-  return("Message for lucas");
+  return("Message for lucas and more super cool stuff");
 }
