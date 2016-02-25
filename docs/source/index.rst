@@ -5,7 +5,7 @@
 
 Welcome to testdocs's documentation!
 ====================================
-Lucas
+the hello function will return a string
 
 Contents:
 
