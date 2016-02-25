@@ -5,7 +5,7 @@
 
 Welcome to testdocs's documentation!
 ====================================
-the hello function will return a string
+the hello function will return a string, please use hello() and save the output
 
 Contents:
 
