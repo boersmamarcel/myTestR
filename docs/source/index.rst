@@ -6,6 +6,7 @@
 Welcome to testdocs's documentation!
 ====================================
 the hello function will return a string, please use hello() and save the output and many more
+different message
 
 Contents:
 
